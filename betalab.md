@@ -35,14 +35,10 @@ Ieder project van Betalab begint met het vinden van de plek _waar het schuurt_. 
 ICT ontwikkeling bij een moderne overheid dient open en transparant plaats te vinden. Betalab brengt dit denken in de praktijk. Wij werken met open tools, stellen broncode open ter beschikking, organiseren open bijeenkomsten voor geïnteresseerde communities en werken op een open toegankelijke plek. **Betalab brengt de overheid van de 21ste eeuw hiermee in de praktijk**.
 
 #### Co-creatie 
-> Betalab werkt op basis van co-�creatie en input van belanghebbenden. Centraal staat een levendig en praktisch ingericht dialoog waar belanghebbenden zoals gebruikers input zoals ideeën en feedback op demoversies kunnen geven. Toegankelijkheid van proces en applicatie is daarom centraal. Input van derden wordt serieus genomen en er is een heldere communicatie over accepteren/weigeren van input.
+Gelijkwaardigheid is een kernbegrip in de aanpak van Betalab. Co-creatie is een methode die ons help de belangen van alle betrokkenen mee te wegen in het ontwerp proces. **Betalab ontwerpt systemen met empathie** die burger en ambtenaar ontzorgen.
 
 #### Agile 
-> Betalab richt zich op concrete projecten met een korte looptijd
-Betalab richt zich op kleinschalige prototypen, bedoeld voor real�life testen van en opschaling.
-Betalab werkt met meetbare doelen: Betalab focust op een helder gedefinieerde doelgroep, heeft een heldere visie op een relevante uitkomst, en maakt gebruik van roadmaps waarin duidelijk de tussenstappen en –resultaten afgesproken zijn.
-Betalab maak waar mogelijk gebruik van bestaande voorzieningen en kennis. Hiervoor werkt Betalab samen met externe partijen waar kennis en middelen beschikbaar zijn.
-Beta`lab is gebaseerd op een iteratief proces: regelmatig en in korte afstanden worden prototypes getest en gevalideert, beginnend in een vroeg stadium.
+Betalab richt zich op concrete projecten met een korte looptijd. De iteratieve werkwijze zorgt voor een snel en efficiënt werkproces. De vraag wordt vertaald in simpele, behapbare brokken. **Betalab gaat zo in een paar maanden van idee naar beta** en neemt de overheid daarbij op de schouders mee.
 
 ********************
 
