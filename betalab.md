@@ -26,7 +26,7 @@ Hoe zorg je ervoor dat kennis over wetgeving en beleid  aansluiting vinden bij n
 ***********************
 
 #### De burger centraal
-Het klinkt eenvoudig, maar teveel overheidsdiensten worden ontwikkeld als antwoord op een beleidsvraag in plaats van de urgentie bij de burger. Mondige, geëngageerde burgers zijn essentieel in het ontwikkelen van effectieve diensten in het publieke domein. **Betalab betrekt alle belanghebbenden, inclusief de burger in het gehele proces, van idee tot beta**. 
+Het klinkt eenvoudig, maar teveel overheidsdiensten worden ontwikkeld als antwoord op een beleidsvraag in plaats van de urgentie bij de burger. Mondige, geëngageerde burgers zijn essentieel in het ontwikkelen van effectieve diensten in het publieke domein. **Betalab betrekt alle belanghebbenden, inclusief de burger** in het gehele proces, van idee tot beta. 
 
 #### Vraag gestuurd 
 Ieder project van Betalab begint met het vinden van de plek _waar het schuurt_. Uitvoeringsorganisaties binnen de overheid staat voor dezelfde uitdagingen: digitale diensten ontwikkelen die het vooruitgang betekenen; minder fouten en bezwaarschriften, meer tevredenheid, soepele uitwisseling en eenvoudig in gebruik. **Betalab vertaalt de vraag naar eenvoudig te testen oplossingsrichtingen**.
