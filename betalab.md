@@ -17,6 +17,12 @@ Hoe zorg je ervoor dat kennis over wetgeving en beleid  aansluiting vinden bij n
 > Een veilige experimenteerruimte met kennis van de nieuwste ontwikkelingen, technische oplossingen en ontwikkelinzichten, dat is het BetaLab.NL. Een plek waar overheidspartijen in een open samenwerking met bedrijfsleven en de creatieve industrie hoogwaardige digitale diensten ontwikkelen. Een plek van en voor de overheid die het verschil tussen overheidsprocessen en bedrijfsprocessen waardeert en begrijpt. Een plek waar de eindgebruiker (burger en/of ambtenaar) centraal staat. BetaLab.NL laat zien hoe werkelijke uitdagingen van opdrachtgevers met moderne (cloud) services en apps kunnen worden ondersteund. BetaLab hanteert een kort, cyclisch en open ontwikkelproces. Functionerende prototypes worden in een zeer vroeg stadium ingezet om eindgebruikers mee te laten denken en, belangrijker, mee te laten doen met het ontwikkelproces. Feedback wordt snel verwerkt waardoor het mogelijk is om snel bij te sturen. Middels een intensief, levendig en praktisch ingericht dialoog wordt een passende oplossingsrichting snel, effectief en gericht gevonden. BetaLab.NL beweegt  op het snijvlak tussen innoveren (met open data) en doelgericht problemen oplossen.
 
 
+********************
+
+<img src="https://github.com/ivonnedings/betalab/blob/master/betalab-droom.jpg">
+
+
+
 ***********************
 
 #### De burger centraal
